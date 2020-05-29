@@ -1,0 +1,28 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boni619/birthday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Boni",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Boni619/birthday/issues"
+  },
+  "homepage": "https://github.com/Boni619/birthday#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
